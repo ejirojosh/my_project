@@ -1,2 +1,2 @@
 # my_project
-A new project
+A new project!
